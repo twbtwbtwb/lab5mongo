@@ -1,0 +1,29 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color:#e2f6ff;
+}
+
+h3{
+  font-size: 30px;
+}
+
+h4{
+  font-size: 20px;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#com{
+  background-color:#63bbff;
+}
+
+#quer{
+   background-color:#99bbff;
+}
+
+#del{
+   background-color:#ff9999;
+}
